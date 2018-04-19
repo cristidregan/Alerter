@@ -16,6 +16,7 @@
     <dimen name="alerter_alert_min_height">64dp</dimen>
     <dimen name="alerter_alert_max_height">84dp</dimen>
     <dimen name="alerter_alert_icn_size">18dp</dimen>
+    <dimen name="alerter_text_horizontal_margin">48dp</dimen>
 
     <!--Text sizes-->
     <dimen name="alerter_text_small">14sp</dimen>
