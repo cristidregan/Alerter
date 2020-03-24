@@ -10,7 +10,7 @@ apply plugin: "maven-publish"
 //Quality Standards
 apply from: rootProject.file('quality.gradle')
 
-final String GROUP_ID = "com.tapadoo.android"
+final String GROUP_ID = "com.github.cristidregan"
 final String VERSION      = "2.0.5"
 final String DESCRIPTION  = "An Android Alerting Library"
 final String GITHUB_URL   = "https://github.com/Tapadoo/Alerter"
